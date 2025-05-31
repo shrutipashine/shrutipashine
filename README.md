@@ -13,18 +13,30 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const shrutipashine = {
+const shrutiPashine = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, C++],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Larawel],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  role: "Data Science Master's Student | Junior Software & Web Developer",
+  code: ["Python", "JavaScript", "HTML", "CSS", "PHP", "C++", "SQL"],
+  toolsAndFrameworks: [
+    "Laravel", "Streamlit", "Jupyter Notebook",
+    "Dataiku", "Folium", "Git", "GitHub", "VS Code"
+  ],
+  mlAndDataSkills: [
+    "Pandas", "NumPy", "Scikit-learn", "LightGBM", 
+    "Random Forest", "Logistic Regression", "Data Visualization", 
+    "Feature Engineering", "Model Evaluation"
+  ],
+  webProjects: [ "eCommerce Websites", "LaTeX Reporting Tools"],
+  architecture: ["Microservices", "Modular Design", "MVC Architecture"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+    headOfSocialMedia: "ACES Club",
+    disciplineHead: "Government Polytechnic, Nagpur",
+    tutor: "Codeblq - Web Dev & Data Analysis",
+    contributor: "Open Source Projects",
+  },
+  funFact: "I love building meaningful tech solutions and visualizing messy data into clear stories."
+};
+
 ```
 | <a href="https://github.com/shrutipashine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutipashine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="shrutipashine's github stats" /></a> | <a href="https://github.com/shrutipashine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutipashine&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
