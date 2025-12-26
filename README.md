@@ -3,7 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.bht-berlin.de/en/">Berliner Hochschule für Technik</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p>< <a href="https://prof.bht-berlin.de/loeser/people/shruti-pashine">PShruti_Pashine Profile</a></p>
+<p><em>Student at <a href="https://www.bht-berlin.de/en/">Berliner Hochschule für Technik</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p> <a href="https://prof.bht-berlin.de/loeser/people/shruti-pashine">Shruti_Pashine Profile</a></p>
 </em></p>
 
 [![Linkedin: shrutipashine](https://img.shields.io/badge/-shrutipashine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrutipashine/)](https://www.linkedin.com/in/shrutipashine/)
